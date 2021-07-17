@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Polamarasetty Rohitha</h1>
 <h3 align="center">Student</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polamarasettyrohitha&label=Profile%20views&color=0e75b6&style=flat" alt="polamarasettyrohitha" /> </p>
+
 - 📫 How to reach me **rohithapolamarasetty9478@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
